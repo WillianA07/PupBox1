@@ -30,7 +30,7 @@ nav {
     height: 100%;
 }
 
-/* Product list */
+/* Product list on Navbar */
 .dropdown:hover .dropdown-menu {
     display: block;
 }
@@ -69,3 +69,4 @@ div.form-floating {
     text-align: center;
     margin: auto;
 }
+
