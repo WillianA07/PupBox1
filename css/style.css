@@ -63,3 +63,9 @@ a.likebutton {
     width: 200px;
     border-radius: 50%;
 }
+
+/* Log In Page */
+div.form-floating {
+    text-align: center;
+    margin: auto;
+}
