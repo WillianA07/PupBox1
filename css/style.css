@@ -71,3 +71,11 @@ div.form-floating {
 }
 
 /* Checkout table */
+th.no-cell {
+    border: none;
+    
+}
+
+tr.no-row {
+    border: none;
+}
